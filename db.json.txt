@@ -1,0 +1,31 @@
+{
+
+	"post" [
+    	{
+		"id": 1,
+		"title":" Hướng dẫn nấu ăn 1",
+		"body":"ok"
+	},
+
+    	{
+		"id": 1,
+		"title":" Hướng dẫn nấu ăn 2",
+		"body":"ok"
+	},
+
+    	{
+		"id": 1,
+		"title":" Hướng dẫn nấu ăn 3",
+		"body":"ok"
+	},
+
+	],
+
+	"users": [
+	{
+		"username":
+		"password":
+		
+	}
+
+}
